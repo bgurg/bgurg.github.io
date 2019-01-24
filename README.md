@@ -3,8 +3,8 @@
 * Engineering manager in California
 * Language of choice: Python
 * Areas of expertise: Telecommunications & Data Science
-* Education: BS Computer Engineering; MBA (specialization in Finance)
-* Recreation: Kickboxing & Fitness
+* Education: BS Computer Engineering; MBA (Finance)
+* Recreation: Kickboxing
 
 ## Interesting sites
 * [Real Python](https://realpython.com/)
