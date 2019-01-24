@@ -1,7 +1,6 @@
 ## About me
 * Github profile: [github.com/bgurg](https://github.com/bgurg)
 * Engineering manager in California
-* Language of choice: Python
 * Areas of expertise: Telecommunications & Data Science
 * Education: BS Computer Engineering; MBA (Finance)
 * Recreation: Kickboxing
