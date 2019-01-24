@@ -4,8 +4,7 @@
 * Engineering manager in California
 * Areas of expertise: Telecommunications & Data Science
 * Education: BS Computer Engineering; MBA (Finance)
-* Recreation: Kickboxing
-* Github profile: [github.com/bgurg](https://github.com/bgurg)
+* Recreation: Kickboxing, Motorcycling, Anything nerdy
 
 ## Some of my favorite sites
 * [Real Python](https://realpython.com/)
