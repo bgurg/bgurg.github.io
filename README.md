@@ -1,4 +1,5 @@
 ![title](https://imgs.xkcd.com/comics/correlation.png)
+[source: xkcd](https://xkcd.com/license.html)
 
 ## About me
 * Engineering manager in California
